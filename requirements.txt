@@ -1,4 +1,9 @@
-Flask
-opencv-python
-pyttsx3
+flask==3.0.3
 
+itsdangerous==2.2.0
+
+opencv-python==4.10.0.84
+
+pyttsx3==2.91
+
+werkzeug[2024-08-30 06:54:04.762485] ==3.0.4
